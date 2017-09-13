@@ -2,5 +2,7 @@ var katzDeli = [];
 
 function takeANumber(line, name) {
   var newPosition = [];
-  for (i = 1; i < line.length; i++)
+  for (i = 1; i < line.length; i++) {
+    newPositions.push(`Welcome ${name[i]}. You are number ${line[i]} in line.`)
+  }
 }
