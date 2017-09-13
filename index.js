@@ -1,5 +1,6 @@
 var katzDeli = [];
 
 function takeANumber(line, name) {
-var line = [];
+  var newPosition = [];  
+  
 }
